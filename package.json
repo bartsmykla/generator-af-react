@@ -1,0 +1,17 @@
+{
+  "name": "generator-af-react",
+  "description": "generator-af-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "gulp-beautify": "^2.0.1",
+    "gulp-filter": "^5.0.1",
+    "mz": "^2.7.0",
+    "yeoman-generator": "^2.0.0"
+  },
+  "devDependencies": {}
+}
